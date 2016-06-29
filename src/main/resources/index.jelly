@@ -1,4 +1,4 @@
 <div>
-  This plugin integrates <a href="http://www.websvn.info">WebSVN browser interface for Subversion</a> to Hudson. 
-  Entries in change logs will by hyperlinked to the specified files/diffs in WebSVN.
+  This plugin integrates <a href="http://www.websvn.info">WebSVN2 (version 2.3.3 onwards) browser interface for Subversion</a> to Jenkins. 
+  Entries in change logs will by hyperlinked to the specified files/diffs in WebSVN2.
 </div>
